@@ -24,3 +24,8 @@
 #### [Blockchain Fiction](https://github.com/jbenno/nyu_blockchain_fiction/blob/master/README.md)
   "Blockchain is the new Internet" (or not)  
   **Spring 2017 to 2019 ITPG-GT 2115**
+
+
+***
+
+<sub>[Joerg Blumtritt](https://jbenno.net) [@jbenno](https://twitter.com/jbenno)</sub>
