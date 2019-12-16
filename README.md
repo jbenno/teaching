@@ -1,4 +1,4 @@
-# Overview of my academic teaching
+# Overview of my academic work
 ## New York University Abu Dhabi
 ### Program: Interactive Media
 
@@ -25,7 +25,13 @@
   "Blockchain is the new Internet" (or not)  
   **Spring 2017 to 2019 ITPG-GT 2115**
 
-
+## Research
+#### [Slow Media and the future of journalism, media, and social networks](https://slow-media.net)
+  [Slow Media in English](https://en.slow-media.net)
+  
+#### [Trustless communication](https://tyuya.com)
+  Peer-to-peer communication based on privacy preserving computation, distributed ledger technology, and federated learning.
+  
 ***
 
 <sub>[Joerg Blumtritt](https://jbenno.net) [@jbenno](https://twitter.com/jbenno)</sub>
