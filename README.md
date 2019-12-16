@@ -26,8 +26,7 @@
   **Spring 2017 to 2019 ITPG-GT 2115**
 
 ## Research
-#### [Slow Media and the future of journalism, media, and social networks](https://slow-media.net)
-  [Slow Media in English](https://en.slow-media.net)
+#### [Slow Media and the future of journalism, media, and social networks](https://github.com/jbenno/future_media/wiki)
   
 #### [Trustless communication](https://tyuya.com)
   Peer-to-peer communication based on privacy preserving computation, distributed ledger technology, and federated learning.
