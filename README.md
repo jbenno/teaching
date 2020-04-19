@@ -10,9 +10,9 @@
   Deconstructing the design and implementation of software as a political medium and re-building functional alternatives.  
   **Spring 2020, IM-UH 3310**
   
-#### [Nature of Code aka Decoding Nature](https://github.com/jbenno/nyuad_decoding_nature/blob/master/README.md)
+#### [Nature of Code aka Decoding Nature](https://github.com/jbenno/nyuad_decoding_nature/wiki)
   Capturing and modelling complexity in code: Laws of motion, complex systems, generative art.  
-   **Fall 2019, IM-UH 2318**
+   **Fall 2020, IM-UH 2318**
    
 #### [Mashups](https://github.com/jbenno/nyuad_mashups/blob/master/README.md)
   Remixing the internet.  
