@@ -1,6 +1,7 @@
 # Overview of my academic work
 ## New York University Abu Dhabi
 ### Program: Interactive Media
+[*Contact Information and Office Hours*](https://github.com/jbenno/teaching/blob/master/contact.md)
 
 #### [Communication and Technology](https://github.com/jbenno/nyuad_comm_tech/wiki)
   From the earliest alphabets to our current interactive media: History and critical theory of technologically mediated  communication
