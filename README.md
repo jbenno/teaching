@@ -7,7 +7,7 @@
   From the earliest alphabets to our current interactive media: History and critical theory of technologically mediated  communication  
   **Fall 2020, IM-UH 1012**
   
-#### [Future Punk](https://github.com/jbenno/nyuad_future_punk/wiki)
+#### [Future Punk](https://github.com/jbenno/nyuad_future_punk)
   Speculative fiction, strategy planning, future studies: We work our way through the field of futurism and use its methods as our creative tool.  
   **Spring 2020, IM-UH 2513**
   
