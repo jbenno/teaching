@@ -11,7 +11,7 @@
   Speculative fiction, strategy planning, future studies: We work our way through the field of futurism and use its methods as our creative tool.  
   **Spring 2020, IM-UH 2513**
   
-#### [Politics of Code](https://github.com/jbenno/nyuad_politics_of_code/wiki)
+#### [Politics of Code](https://github.com/jbenno/nyuad_politics_of_code)
   Deconstructing the design and implementation of software as a political medium and re-building functional alternatives.  
   **Spring 2020, IM-UH 3310**
   
