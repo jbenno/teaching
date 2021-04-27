@@ -3,7 +3,7 @@
 ### Program: Interactive Media
 [*Contact Information and Office Hours*](https://github.com/jbenno/teaching/blob/master/contact.md)  
 ### *Courses:*
-#### [Communication and Technology](https://github.com/jbenno/nyuad_comm_tech/wiki)
+#### [Communication and Technology](https://github.com/jbenno/nyuad_comm_tech)
   From the earliest alphabets to our current interactive media: History and critical theory of technologically mediated  communication  
   **Fall 2020, IM-UH 1012**
   
