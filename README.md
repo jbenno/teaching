@@ -31,6 +31,8 @@
   **Spring 2017 to 2019 ITPG-GT 2115**
 
 ## Research
+#### [Future of Democratic Participation with Digital Technology](https://github.com/jbenno/liquid)
+
 #### [Slow Media and the future of journalism, media, and social networks](https://github.com/jbenno/future_media/wiki)
   
 #### [Trustless communication](https://tyuya.com)
