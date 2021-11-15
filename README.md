@@ -1,5 +1,5 @@
 # Overview of my academic work
-## ![New York University Abu Dhabi)](/files/primary-logo-color.png)
+## ![New York University Abu Dhabi](/files/primary-logo-color1.png)
 ### Program: Interactive Media
 [*Contact Information and Office Hours*](/contact.md)  
 ### *Courses:*
