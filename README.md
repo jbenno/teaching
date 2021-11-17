@@ -9,11 +9,11 @@
   
 #### [Future Punk](https://github.com/jbenno/nyuad_future_punk)
   Speculative fiction, strategy planning, future studies: We work our way through the field of futurism and use its methods as our creative tool.  
-  **Spring 2021, Spring 2020 IM-UH 2513**
+  **Spring 2022, Spring 2021, Spring 2020 IM-UH 2513**
   
 #### [Politics of Code](https://github.com/jbenno/nyuad_politics_of_code)
   Deconstructing the design and implementation of software as a political medium and re-building functional alternatives.  
-  **Spring 2021, Spring 2020 IM-UH 3310**
+  **Spring 2022, Spring 2021, Spring 2020 IM-UH 3310**
   
 #### [Nature of Code aka Decoding Nature](https://github.com/jbenno/nyuad_decoding_nature/wiki)
   Capturing and modelling complexity in code: Laws of motion, complex systems, generative art.  
