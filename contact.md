@@ -2,8 +2,7 @@
 
 Email joerg.blumtritt@nyu.edu
 
-Office Hours: Tuesdays by appointment  
-Office: Art Center, C3 163  
+Office Hours: Tuesdays by appointment   
 
 ### Social Media
 [LinkedIn](https://www.linkedin.com/in/joergblumtritt/)  
@@ -11,4 +10,4 @@ Office: Art Center, C3 163
 
 ### Blogs, Homepages
 [Slow Media](https://slow-media.net)  
-[mediagnosis.de](https://jbenno.net)
+[jbenno.net](https://jbenno.net)
