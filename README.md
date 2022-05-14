@@ -1,8 +1,6 @@
 # Overview of my academic work
-## ![New York University Abu Dhabi](/files/primary-logo-color1.png)
-### Program: Interactive Media
 [*Contact Information and Office Hours*](/contact.md)  
-### *Courses:*
+## Courses:
 #### [Communication and Technology](https://github.com/jbenno/nyuad_comm_tech)
   From the earliest alphabets to our current interactive media: History and critical theory of technologically mediated  communication  
   **Fall 2021, Summer 2021, Fall 2020, Summer 2020, IM-UH 1012**
@@ -23,9 +21,6 @@
   Remixing the internet.  
    **Fall 2019, IM-UH 2310**
    
-## New York University, New York
-### Interactive Telecommunications Program ITP
-
 #### [Blockchain Fiction](https://github.com/jbenno/nyu_blockchain_fiction/blob/master/README.md)
   "Blockchain is the new Internet" (or not)  
   **Spring 2019, Spring 2018, Spring 2017, ITPG-GT 2115**
