@@ -3,7 +3,7 @@
 ## Courses:
 #### [Communication and Technology](https://github.com/jbenno/nyuad_comm_tech)
   From the earliest alphabets to our current interactive media: History and critical theory of technologically mediated  communication  
-  **Summer 2022, Fall 2021, Summer 2021, Fall 2020, Summer 2020, IM-UH 1012**
+  **Fall 2022, Summer 2022, Fall 2021, Summer 2021, Fall 2020, Summer 2020, IM-UH 1012**
   
 #### [Future Punk](https://github.com/jbenno/nyuad_future_punk)
   Speculative fiction, strategy planning, future studies: We work our way through the field of futurism and use its methods as our creative tool.  
