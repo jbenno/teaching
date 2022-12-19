@@ -35,6 +35,4 @@
   
 ***
 
-<sub>[Joerg Blumtritt](https://jbenno.net)</sub>
-<sub><a rel="me" href="https://mastodon.social/@jbenno">Mastodon</a></sub>
-
+<sub>[Joerg Blumtritt](https://jbenno.net) [@jbenno@mastodon.social](https://mastodon.social/@jbenno)</sub>
