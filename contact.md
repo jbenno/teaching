@@ -6,7 +6,7 @@ Office Hours: Tuesdays by appointment
 
 ### Social Media
 [LinkedIn](https://www.linkedin.com/in/joergblumtritt/)  
-[Twitter](https://twitter.com/jbenno)  
+[@jbenno@mastodon.social](https://mastodon.social/@jbenno)  
 
 ### Blogs, Homepages
 [Slow Media](https://slow-media.net)  
