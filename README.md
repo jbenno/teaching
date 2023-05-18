@@ -8,7 +8,7 @@
   
 #### [Politics of Code](https://github.com/jbenno/nyuad_politics_of_code)
   Deconstructing the design and implementation of software as a political medium and re-building functional alternatives.  
-  **NYU Abu Dhabi Fall 2022, Spring 2022, Spring 2021, Spring 2020 IM-UH 3310**
+  **NYU Abu Dhabi Fall 2022, Spring 2022, Spring 2021, Spring 2020 IM-UH 3310**  
   **NYU, New York, Politics of Code Cryptoparty, Spring 2020, and lecture Spring 2021**
   
 #### [Communication and Technology](https://github.com/jbenno/nyuad_comm_tech)
