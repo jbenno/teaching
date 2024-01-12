@@ -1,5 +1,5 @@
 # Overview of my Academic Teaching and my Practice of Analysis and Consultancy
-[*Contact Information and Office Hours*](/contact.md)  
+[*Contact Information*](/contact.md)  
 ## Courses:
 
 #### [Future Punk](https://github.com/jbenno/nyuad_future_punk)
@@ -11,7 +11,7 @@
   **NYU Abu Dhabi Fall 2022, Spring 2022, Spring 2021, Spring 2020 IM-UH 3310**  
   **NYU, New York, Politics of Code Cryptoparty, Spring 2020, and lecture Spring 2021**
   
-#### [Communication and Technology](https://github.com/jbenno/nyuad_comm_tech)
+#### [Information and Communication Technology](https://github.com/jbenno/nyuad_comm_tech)
   From the earliest alphabets to our current interactive media: History and critical theory of technologically mediated  communication  
   **NYU Abu Dhabi Fall 2022, Summer 2022, Fall 2021, Summer 2021, Fall 2020, Summer 2020, IM-UH 1012**
   
