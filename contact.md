@@ -1,8 +1,6 @@
-# Contact and Office Hours
+# Contact
 
 Email joerg.blumtritt@nyu.edu
-
-Office Hours: Tuesdays by appointment   
 
 ### Social Media
 [LinkedIn](https://www.linkedin.com/in/joergblumtritt/)  
