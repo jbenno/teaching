@@ -6,10 +6,10 @@
   Speculative fiction, strategy planning, future studies: We work our way through the field of futurism and use its methods as our creative tool.  
   **NYU Abu Dhabi Spring 2022, Spring 2021, Spring 2020 IM-UH 2513**
   
-#### [Politics of Code](https://github.com/jbenno/nyuad_politics_of_code)
+#### [Politics of Code](https://github.com/jbenno/course_politics_of_code)
   Deconstructing the design and implementation of software as a political medium and re-building functional alternatives.  
+  **NYU, New York, Spring 2024, Politics of Code Cryptoparty, Spring 2020, and lecture Spring 2021**
   **NYU Abu Dhabi Fall 2022, Spring 2022, Spring 2021, Spring 2020 IM-UH 3310**  
-  **NYU, New York, Politics of Code Cryptoparty, Spring 2020, and lecture Spring 2021**
   
 #### [Information and Communication Technology](https://github.com/jbenno/nyuad_comm_tech)
   From the earliest alphabets to our current interactive media: History and critical theory of technologically mediated  communication  
