@@ -14,6 +14,8 @@
 #### [Information and Communication Technologies](https://github.com/jbenno/course_comm_tech)
   From the earliest alphabets to our current interactive media: History and critical theory of technologically mediated  communication  
   **NYU Abu Dhabi Fall 2022, Summer 2022, Fall 2021, Summer 2021, Fall 2020, Summer 2020, IM-UH 1012**
+
+#### [Media Audiences](https://github.com/jbenno/course_media_audiences)
   
 #### [Nature of Code aka Decoding Nature](https://github.com/jbenno/nyuad_decoding_nature/wiki)
   Capturing and modelling complexity in code: Laws of motion, complex systems, generative art.  
