@@ -20,7 +20,8 @@
 
 #### [Media Law and Ethics](https://github.com/jbenno/course_media_ethics)
 
-#### [Understanding Interactive Media](https://github.com/jbenno/course_uim)
+#### [Understanding Interactive Media](https://github.com/jbenno/course_understanding_IM)
+  Digital media as art, activism, and part of culture
   
 #### [Nature of Code aka Decoding Nature](https://github.com/jbenno/nyuad_decoding_nature/wiki)
   Capturing and modelling complexity in code: Laws of motion, complex systems, generative art.  
