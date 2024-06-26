@@ -1,5 +1,9 @@
 # Overview of my Academic Teaching and my Practice of Analysis and Consultancy
 [*Contact Information*](/contact.md)  
+
+## [Wheaton Institute for the Interdisciplinary Humanities (WIIH)](https://github.com/jbenno/AI-Humanities)
+  As director of the WIIH I develop an **AI Humanities** program. The aim is to revisit and reclaim artificial intelligence as an endeavor of the humanities, deeply philosophical, artistic and creative, a project for the liberal arts. 
+
 ## Courses:
 
 #### [Future Punk](https://github.com/jbenno/nyuad_future_punk)
