@@ -18,7 +18,7 @@
   **NYU, New York, Spring 2025, Spring 2024, Politics of Code Cryptoparty, Spring 2020, and lecture Spring 2021**  
   **NYU Abu Dhabi Fall 2022, Spring 2022, Spring 2021, Spring 2020**  
 
-#### [AI Introducton](https://github.com/jbenno/course_AI)
+#### [AI Introduction](https://github.com/jbenno/course_AI)
   This block seminar gives a short introduction to machine learning and artificial intelligence (AI): The theory, philosophy, and first code examples for the most common neural network models.
   **NYU, New York, Spring 2025, Spring 2024, Spring 2020, and lecture Spring 2021**  
   **NYU Abu Dhabi Fall 2022, Spring 2022, Spring 2021, Spring 2020**  
