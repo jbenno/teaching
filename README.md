@@ -9,6 +9,8 @@
 
 ## Courses:
 
+#### [Creative Industries](https://github.com/jbenno/course_creative_industries)
+
 #### [Future Punk](https://github.com/jbenno/nyuad_future_punk)
   Speculative fiction, strategy planning, future studies: We work our way through the field of futurism and use its methods as our creative tool.  
   **NYU Abu Dhabi Spring 2022, Spring 2021, Spring 2020**
