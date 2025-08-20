@@ -10,8 +10,7 @@
 ## Courses:
 
 #### [Introduction to Creative Industries and Business Basics for Creative Industries](https://github.com/jbenno/course_creative_industries)
-  Arts and design as a business: Two courses to work through the concept of creative industries, learn product development and product management, marketing, financial planning, how to get funded, etc.
-  **Wheaton College, Norton, MA., Fall 2025, Spring 2026** 
+  Arts and design as a business: Two courses to work through the concept of creative industries, learn product development and product management, marketing, financial planning, how to get funded, etc. 
 
 #### [AI Introduction](https://github.com/jbenno/course_AI)
   This block seminar gives a short introduction to machine learning and artificial intelligence (AI): The theory, philosophy, and first code examples for the most common neural network models.
