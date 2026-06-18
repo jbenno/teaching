@@ -1,3 +1,12 @@
+[![Dial Up to Utopia: An Oral History of the Early Internet shares the voices of the artists, critics, activists, and writers who were deeply engaged in the genesis and culture of the world’s most powerful technology: the internet.](/files/Dial-Up-to-Utopia-AD-banner.png)](https://www.igpub.com/dial-up-to-utopia/)
+Order our new book "Dial Up to Utopia: An Oral History of the Early Internet" from [ig Publishing](https://www.igpub.com/dial-up-to-utopia/)
+Dial Up to Utopia: An Oral History of the Early Internet shares the voices of the artists, critics, activists, and writers who were deeply engaged in the genesis and culture of the world’s most powerful technology: the internet.
+
+Participants include Douglas Rushkoff, Jane Metcalfe, Bruce Sterling, Julien Mailland, Geert Lovink, Ricardo Dominguez, Sabria David, JR Carpenter, Omar Kholeif and others. Through their stories and recollections, you will relive the excitement of the early internet, when many believed that technology would unite the world, as well as the disillusionment of what emerged: namely, the culture of vanity and harassment, surveillance capitalism, and precarious labor.
+
+With the utopian dream of the early internet almost unrecognizable to younger people today, Dial Up to Utopia aims to convey the euphoria and sense of endless potential of the nascent days of our online world, as well as offering a critically optimistic outlook of what might lie ahead.
+
+
 # Overview of my Academic Teaching and my Practice of Analysis and Consultancy
 [*Contact Information*](/contact.md)  
 
