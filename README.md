@@ -19,11 +19,14 @@ With the utopian dream of the early internet almost unrecognizable to younger pe
 
 ## Courses:
 
-#### [Introduction to Creative Industries and Business Basics for Creative Industries](https://github.com/jbenno/course_creative_industries)
-  Arts and design as a business: Two courses to work through the concept of creative industries, learn product development and product management, marketing, financial planning, how to get funded, etc. 
+#### [Applied Machine Learning](https://github.com/jbenno/course_applied_ML)
+  Learn and apply key concepts of modelling, analysis and validation from machine learning, data mining and signal processing to analyze and extract meaning from data. Implement algorithms and perform experiments on images, text, audio and mobile sensor measurements. 
 
 #### [AI Introduction](https://github.com/jbenno/course_AI)
   This block seminar gives a short introduction to machine learning and artificial intelligence (AI): The theory, philosophy, and first code examples for the most common neural network models.
+
+#### [Introduction to Creative Industries and Business Basics for Creative Industries](https://github.com/jbenno/course_creative_industries)
+  Arts and design as a business: Two courses to work through the concept of creative industries, learn product development and product management, marketing, financial planning, how to get funded, etc. 
 
 #### [Media Entrepreneurship](https://github.com/jbenno/course_entrepreneurship/)
   This course introduces how to draft and plan a startup in interactive media: The goal is to contribute to forming a critical understanding of current media culture, by thinking and acting like a startup entrepreneur.
