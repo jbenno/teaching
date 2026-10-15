@@ -19,6 +19,9 @@ With the utopian dream of the early internet almost unrecognizable to younger pe
 
 ## Courses:
 
+#### [Data Science in the Wild](https://github.com/jbenno/course_datascience_1)
+  Practical statistics and machine learning for messy real-world data, from framing and regression to causal inference, built on NYC open data and attentive to the politics of code.
+
 #### [Applied Machine Learning](https://github.com/jbenno/course_applied_ML)
   Learn and apply key concepts of modelling, analysis and validation from machine learning, data mining and signal processing to analyze and extract meaning from data. Implement algorithms and perform experiments on images, text, audio and mobile sensor measurements. 
 
